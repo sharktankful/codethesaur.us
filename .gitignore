@@ -7,3 +7,5 @@ __pycache__
 public_html/
 staticfiles/
 *.sqlite3
+Pipfile
+Pipfile.lock
